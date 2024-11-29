@@ -1,0 +1,17 @@
+.dashboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full screen height */
+    background-color: #000; /* Black background */
+    color: #fff; /* White font color */
+    font-family: 'Arial', sans-serif; /* Clean and modern font */
+    text-align: center; /* Center align text */
+  }
+  
+  .dashboard-container h1 {
+    font-size: 3rem; /* Large font size for heading */
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: 2px; /* Add some spacing between letters */
+  }
+  
